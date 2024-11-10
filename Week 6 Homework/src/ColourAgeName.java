@@ -1,4 +1,4 @@
-public class olour {
+public class ColourAgeName {
     public static void main(String[] args) {
 
         String name = "amin";
